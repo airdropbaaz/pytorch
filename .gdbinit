@@ -9,6 +9,6 @@
 #
 # Alternatively, you can manually load the pytorch-gdb commands into your
 # existing gdb session by doing the following:
-#    (gdb) source /path/to/pytorch/tools/gdb/pytorch-gdb.py
+# (gdb) source /path/to/pytorch/tools/gdb/pytorch-gdb.py
 
 source tools/gdb/pytorch-gdb.py
